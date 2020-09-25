@@ -8,7 +8,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-The source code is available at [GitHub](). [Just click here!]()
+The source code is available at [GitHub](https://github.com/Shyamalbhatt/Developing-Data-Products/tree/master/week%202). [Just click here!](https://github.com/Shyamalbhatt/Developing-Data-Products/tree/master/week%202)
 
 ## Leaflet Map
 Create a leaflet map object.
